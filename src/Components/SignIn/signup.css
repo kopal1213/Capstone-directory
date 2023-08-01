@@ -1,0 +1,25 @@
+.form-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction:column;
+    min-height: 70vh;
+    background-color: #ffdee9;
+}
+.form-container .register{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding: 20px;
+    background-color: #fff;
+    margin: 2%;
+}
+.form-container form .title{
+    margin-bottom: 15px;        
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+ }
+
+ .form-container form button{
+    align-items: center;
+ }

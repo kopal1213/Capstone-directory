@@ -1,0 +1,21 @@
+.cart{
+    display: flex;
+    align-items: center;
+    flex:1;
+}
+
+.cartLeft{
+    flex: 0.7;
+    margin: 15px;
+    padding: 10px;
+}
+
+.cartRight{
+    background-color: orange;
+    flex: 0.3;
+}
+.cartContainer{
+    display: flex;
+    margin: 20px;
+
+}

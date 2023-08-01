@@ -1,0 +1,15 @@
+.body{
+    margin: 0;
+    background-color: #F0F0F0;
+    height: max-content;
+}
+.bodyItem{
+    display: flex;
+    flex-wrap: wrap;
+    overflow: hidden;
+}
+.card{
+   margin: 12px;
+   width: 400px;
+   padding: 10px;
+}

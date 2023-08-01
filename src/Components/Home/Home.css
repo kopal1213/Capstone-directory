@@ -1,0 +1,29 @@
+.home{
+    background-size: contain;
+    background-color: #000;
+    background-image: url('/src/Assets/background.jpg');
+    text-align: center;
+    padding: 7%;
+    min-height: 65vh;
+}
+
+.home-heading{
+    margin-top: 10px;
+    color: crimson;
+}
+
+.homeIcon{
+    width: 15%;
+    height: 15%;
+    padding: 0.5%;
+}
+
+.btn{
+    cursor: pointer;
+    justify-content: space-between;
+    text-decoration: none;
+}
+
+.btn:hover{
+    color: black;
+}
